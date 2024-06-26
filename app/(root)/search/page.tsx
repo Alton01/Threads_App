@@ -29,7 +29,7 @@ async function Page() {
   });
   return (
     <section>
-      <h1 className="head-text mb-10">Search</h1>
+      <h1 className="head-text mb-10">Users</h1>
 
       {/* SEARCH BAR */}
 
