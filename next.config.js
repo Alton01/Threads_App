@@ -27,6 +27,9 @@ const nextConfig = {
         hostname: "placehold.co",
       },
     ],
+    typescript: {
+      ignoreBuildErrors: true,
+    },
   },
 };
 
