@@ -13,7 +13,7 @@ export default async function Home() {
 
       <section className="mt-9 flex flex-col gap-10">
         {result.posts.length === 0 ? (
-          <p>No threads found</p>
+          <p>No threads found..</p>
         ) : (
           <>
             {result.posts.map((post) => (
